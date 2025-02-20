@@ -1,0 +1,10 @@
+Rock
+Rocky
+Barren
+Dusted
+Moon
+Cratered
+Deserted
+Abandoned
+Desolate
+Wasteland
